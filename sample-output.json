@@ -1,0 +1,55 @@
+[
+  {
+    "jobId": "7844214",
+    "title": "AEO and GEO Marketing Manager",
+    "company": "Stripe",
+    "location": "Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7844214",
+    "postedAt": "2026-04-23T18:21:56Z",
+    "updatedAt": "2026-10-22T13:17:04Z",
+    "atsPlatform": "greenhouse",
+    "boardToken": "stripe",
+    "boardUrl": "https://boards.greenhouse.io/stripe",
+    "workArrangement": "remote",
+    "isRemote": true,
+    "country": "United States"
+  },
+  {
+    "jobId": "26129043",
+    "title": "Revenue Manager",
+    "location": "LONDON, United Kingdom",
+    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26129043",
+    "postedAt": "2026-10-23T00:00:00Z",
+    "company": "Marriott",
+    "boardTokenResolved": "CX",
+    "atsPlatform": "oracle",
+    "boardToken": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "boardUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "workArrangement": "onsite",
+    "isRemote": false,
+    "country": "United Kingdom",
+    "city": "LONDON"
+  },
+  {
+    "jobId": "5001234068100",
+    "title": "Center Store Manager - Gardner, KS",
+    "location": "Gardner, Kansas, United States",
+    "departments": [
+      "Store / Field Leadership"
+    ],
+    "url": "https://myjobs.adp.com/caseysstore/cx/job-details?reqId=5001234068100",
+    "postedAt": "2026-10-25T13:02:33Z",
+    "employmentType": "full-time",
+    "payBasis": "hourly",
+    "company": "Casey's",
+    "boardTokenResolved": "G3WK8PFWBKJGZRWN",
+    "atsPlatform": "adp",
+    "boardToken": "caseysstore",
+    "boardUrl": "https://myjobs.adp.com/caseysstore",
+    "workArrangement": "onsite",
+    "isRemote": false,
+    "country": "United States",
+    "region": "Kansas",
+    "city": "Gardner"
+  }
+]

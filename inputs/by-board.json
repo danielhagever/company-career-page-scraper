@@ -1,0 +1,9 @@
+{
+  "boards": [
+    "greenhouse:stripe",
+    "lever:palantir",
+    "workday:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+  ],
+  "titleKeywords": ["engineer"],
+  "maxItems": 100
+}

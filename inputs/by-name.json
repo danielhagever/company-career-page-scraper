@@ -1,0 +1,4 @@
+{
+  "companies": ["stripe.com", "Marriott", "Casey's", "NVIDIA", "Costco"],
+  "maxResultsPerCompany": 50
+}

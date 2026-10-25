@@ -1,0 +1,6 @@
+{
+  "companies": ["stripe.com", "Cloudflare", "Datadog", "Microsoft", "JPMorgan Chase"],
+  "titleKeywords": ["security"],
+  "remoteOnly": true,
+  "maxResultsPerCompany": 50
+}
