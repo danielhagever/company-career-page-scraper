@@ -189,7 +189,7 @@ daily refresh.
 - [Workday Jobs Scraper](https://apify.com/glitchbound/workday-jobs-scraper) and its quick start, [workday-jobs-scraper](https://github.com/danielhagever/workday-jobs-scraper).
 - [Oracle Recruiting Jobs Scraper](https://apify.com/glitchbound/oracle-jobs-scraper): Oracle Cloud careers sites by name.
 - [iCIMS Jobs Scraper](https://apify.com/glitchbound/icims-jobs-scraper): iCIMS career portals by name.
-- [Job Listings API](https://apify.com/glitchbound/ats-jobs-search): one search across every company in the index.
+- [Job Listings API](https://apify.com/glitchbound/ats-jobs-search): one search across every company in the index; quick start in [job-listings-api](https://github.com/danielhagever/job-listings-api).
 - Write-up: [Company Career Page Scraper: every open job from any company, by name or domain](https://dev.to/glitchbound/company-career-page-scraper-every-open-job-from-any-company-by-name-or-domain-ede).
 
 Questions, or a company that does not resolve? Open an issue here or on the Actor page.
