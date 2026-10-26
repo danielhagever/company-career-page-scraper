@@ -74,6 +74,10 @@ In Cursor or VS Code, the same address goes in `mcp.json`:
 The first call asks you to sign in to Apify or takes an API token. Then "what is Stripe
 hiring for in Dublin?" is one tool call.
 
+It is also listed in the official MCP Registry as
+[`io.github.danielhagever/career-site-jobs`](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.danielhagever%2Fcareer-site-jobs/versions/latest),
+together with the Workday and Job Listings tools ([`server.json`](server.json)).
+
 ## Input
 
 | Field | What it does |
