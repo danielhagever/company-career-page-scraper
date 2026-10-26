@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.danielhagever/career-site-jobs",
+  "title": "Career Site Jobs: Workday, Oracle, Greenhouse and 21 more",
+  "description": "Open jobs from any company's careers site by name or domain, plus a search across 2.5M+ roles",
+  "version": "1.0.0",
+  "websiteUrl": "https://apify.com/glitchbound/ats-jobs-scraper",
+  "repository": {
+    "url": "https://github.com/danielhagever/company-career-page-scraper",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=glitchbound/ats-jobs-scraper,glitchbound/workday-jobs-scraper,glitchbound/ats-jobs-search",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Apify API token, as 'Bearer <apify-api-token>'. Free at console.apify.com/settings/integrations.",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
